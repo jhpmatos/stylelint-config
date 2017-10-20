@@ -17,9 +17,10 @@ module.exports = {
         'max-line-length': 140,
         // specify indentation
         'indentation': 4,
+        'order/properties-alphabetical-order': false,
         // specify the order of properties within rules.
         // based on https://gist.github.com/MadLittleMods/929bcdefb2b29c9b97c3
-        'declaration-block-properties-order': [
+        'order/properties-order': [
             // overview
             {
                 'order': 'strict',
