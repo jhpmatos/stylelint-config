@@ -10,7 +10,7 @@ module.exports = {
             'ignore': ['stylelint-commands', 'between-comments'],
         }],
         // require or disallow an empty line before nested rules
-        'rule-nested-empty-line-before': ['always-multi-line', {
+        'at-rule-empty-line-before': ['always-multi-line', {
             'except': ['first-nested'],
             'ignore': ['after-comment'],
         }],
