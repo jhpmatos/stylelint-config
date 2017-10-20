@@ -18,15 +18,15 @@
     "lint": "eslint '{*.js,rules/**/*.js}'"
   },
   "author": "André Cruz <andremiguelcruz@msn.com>",
-  "homepage": "https://github.com/satazor/stylelint-config",
+  "homepage": "https://github.com/jhpmatos/stylelint-config",
   "bugs": {
-    "url": "https://github.com/satazor/stylelint-config/issues"
+    "url": "https://github.com/jhpmatos/stylelint-config/issues"
   },
-  "repository": "git://github.com/satazor/stylelint-config.git",
+  "repository": "git://github.com/jhpmatos/stylelint-config.git",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "stylelint-config-suitcss": "^8.0.0"
+    "stylelint-config-suitcss": "^12.0.0"
   },
   "devDependencies": {
     "@satazor/eslint-config": "^3.0.0",
